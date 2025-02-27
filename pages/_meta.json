@@ -1,0 +1,19 @@
+{
+  "index": "Introduction",
+  "regelwerk": "Regelwerk",
+  "befehle": "Befehle",
+  "howtojoin": "Server betreten",
+  "mods": "Mods",
+  "faq": "FAQ",
+  "another": "Markdown (unwichtig)",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Discord ↗",
+    "type": "page",
+    "href": "#",
+    "newWindow": true
+  }
+}
