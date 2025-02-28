@@ -1,10 +1,10 @@
 {
   "index": "Introduction",
   "regelwerk": "Regelwerk",
-  "befehle": "Befehle",
   "howtojoin": "Server betreten",
   "mods": "Mods",
   "faq": "FAQ",
+  "befehle": "Befehle",
   "about": {
     "title": "About",
     "type": "page"
